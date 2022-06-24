@@ -1,4 +1,6 @@
-# flutter_application_1
+# Bank Dashboard
+
+![](https://github.com/briandsmth/Responsive_Dashboard_Bank_Flutter/blob/main/demo2.gif)
 
 A new Flutter project.
 
